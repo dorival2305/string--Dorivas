@@ -2,7 +2,7 @@
 
 :root {
     --cor-destaque: #005d16;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #465101 44.96%, #f4f683 100%);
+    --cor-gradiente: linear-gradient(113deg, #000 0%, #2a0378 44.96%, #070110 100%);
 }
 
 * {
@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-    background: var(--cor-gradiente-preto);
+    background: var(--cor-gradiente-);
     height: 100vh;
     flex-direction: column;
 }
